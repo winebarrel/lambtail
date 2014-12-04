@@ -6,6 +6,6 @@ Node module for follow lambda function output
 
 ```js
 var Lambtail = require('lambtail');
-var lambtail = new Lambtail({region: 'us-east-q'})
+var lambtail = new Lambtail({region: 'us-east-1'})
 lambtail.tail('function_name')
 ```
