@@ -1,0 +1,27 @@
+{
+  "name": "lambtail",
+  "version": "0.1.0",
+  "description": "Node module for follow lambda function output",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.0.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:winebarrel/lambtail.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda"
+  ],
+  "author": "Genki Sugawara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winebarrel/lambtail/issues"
+  },
+  "homepage": "https://github.com/winebarrel/lambtail"
+}
